@@ -1,0 +1,1026 @@
+,Name,Location,Price,Kms_driven,Fuel_type,Year,Company
+0,Figo,Bangalore,380000,35056, Petrol,2015,Ford
+1,Suzuki,Bangalore,465000,44000, Petrol,2016,Maruti
+2,Creta,Bangalore,1350000,42917, Petrol,2018,Hyundai
+3,Venue,Chennai,1019699,16112, Petrol ,2019,Hyundai
+4,Jazz,Pune,713499,30988, Petrol ,2017,Honda
+5,i20,Pune,391099,69163, Diesel ,2013,Hyundai
+6,Suzuki,Pune,474299,42859, Petrol ,2015,Maruti
+7,Corolla,Pune,1252999,34919, Petrol ,2017,Toyota
+8,Amaze,Pune,393699,44940, Petrol,2013,Honda
+9,Elite,Pune,730899,13687, Petrol ,2017,Hyundai
+10,Suzuki,Pune,343099,29848, Petrol ,2018,Maruti
+11,Jazz,Pune,707599,21426, Petrol ,2018,Honda
+12,Suzuki,Pune,688899,68177, Diesel ,2016,Maruti
+13,Compass,Pune,1421599,70650, Diesel ,2017,Jeep
+14,Suzuki,Pune,399999,25730, Petrol ,2017,Maruti
+15,Seltos,Pune,1473299,47096, Petrol ,2019,Kia
+16,Innova,Bangalore,1025000,131000, Diesel,2012,Toyota
+17,Elite,Bangalore,735000,26000, Petrol,2016,Hyundai
+18,Creta,Chennai,600000,58460, Diesel ,2019,Hyundai
+19,Seltos,Chennai,800000,48000, Petrol ,2020,Kia
+20,Suzuki,Hyderabad,700000,26600, Petrol,2017,Maruti
+21,EcoSport,Faridabad,820000,36000, Petrol,2019,Ford
+22,Nano,Chennai,195000,39500, Petrol,2014,Tata
+23,Q7,Chennai,1850000,76000, Diesel,2011,Audi
+24,Ecosport,Pune,807499,23698, Petrol ,2017,Ford
+25,Grand,Pune,522999,37860, Petrol ,2016,Hyundai
+26,Suzuki,Pune,474299,91830, Petrol ,2015,Maruti
+27,Elite,Pune,740899,31172, Petrol ,2019,Hyundai
+28,Yaris,Pune,1141999,3243, Petrol ,2021,Toyota
+29,Nexon,Pune,971299,9616, Petrol ,2020,Tata
+30,Suzuki,Pune,640999,30249, Petrol ,2017,Maruti
+31,Suzuki,Pune,676199,60875, Petrol ,2019,Maruti
+32,Suzuki,Chennai,562399,25740, Petrol ,2017,Maruti
+33,Ecosport,Pune,580899,38587, Petrol ,2014,Ford
+34,Triber,Pune,770999,3108, Petrol ,2021,Renault
+35,Amaze,Pune,531399,35353, Petrol ,2016,Honda
+36,EON,Pune,367299,34748, Petrol ,2017,Hyundai
+37,Suzuki,Pune,412199,2359, Petrol ,2020,Maruti
+38,Creta,Pune,1460099,17814, Diesel ,2020,Hyundai
+39,Suzuki,Pune,618699,68934, Petrol ,2018,Maruti
+40,i20,Bangalore,485000,72600, Petrol ,2014,Hyundai
+41,3,Chennai,890000,81000, Diesel,2010,BMW
+42,Micra,Chennai,245000,80000, Diesel ,2012,Nissan
+43,Glanza,Bangalore,945000,12000, Petrol,2020,Toyota
+44,Suzuki,Bangalore,590000,6000, Petrol,2016,Maruti
+45,Brio,Bangalore,495000,56000, Petrol,2017,Honda
+46,Suzuki,Bangalore,475000,56000, Petrol,2017,Maruti
+47,Motors,Chennai,1200000,36000, Diesel ,2020,MG
+48,Suzuki,Pune,490199,15840, Petrol ,2017,Maruti
+49,Suzuki,Pune,618699,68934, Petrol ,2018,Maruti
+50,Suzuki,Pune,920999,32482, Diesel ,2017,Maruti
+51,City,Pune,554399,113779, Diesel ,2014,Honda
+52,Suzuki,Pune,408999,26150, Petrol ,2017,Maruti
+53,XUV,Pune,1248299,34555, Diesel ,2018,Mahindra
+54,Suzuki,Pune,636099,30880, Petrol ,2018,Maruti
+55,i20,Pune,452699,70423, Petrol ,2013,Hyundai
+56,Elite,Pune,704399,30232, Diesel ,2018,Hyundai
+57,Polo,Pune,553599,50077, Petrol ,2016,Volkswagen
+58,Ecosport,Pune,999599,18482, Diesel ,2018,Ford
+59,Suzuki,Pune,684699,10246, Petrol ,2018,Maruti
+60,Suzuki,Pune,620399,25021, Petrol ,2016,Maruti
+61,Elite,Pune,549899,70646, Petrol ,2014,Hyundai
+62,Suzuki,Pune,812899,45490, Diesel ,2018,Maruti
+63,Ecosport,Chennai,656699,53306, Diesel ,2016,Ford
+64,Creta,Chennai,725000,58460, Diesel ,2019,Hyundai
+65,Venue,Chennai,600000,29000, Diesel ,2019,Hyundai
+66,XC90,Chennai,3700000,110000, Diesel,2016,Volvo
+67,XUV,Chennai,735000,95000, Diesel,2013,Mahindra
+68,Fortuner,Chennai,1350000,170000, Diesel,2012,Toyota
+69,Jazz,Pune,365000,80000, Petrol,2013,Honda
+70,i10,Pune,280000,58000, Petrol,2011,Hyundai
+71,Nexon,Pune,840000,22000, Diesel,2019,Tata
+72,Creta,Pune,818599,69215, Petrol ,2017,Hyundai
+73,Verna,Pune,862399,33340, Petrol ,2018,Hyundai
+74,Triber,Pune,673599,9783, Petrol ,2019,Renault
+75,Santro,Pune,528899,15110, Petrol ,2018,Hyundai
+76,Suzuki,Pune,527999,3399, Petrol ,2021,Maruti
+77,XUV,Pune,791699,89310, Diesel ,2013,Mahindra
+78,Suzuki,Chennai,392999,53148, Petrol ,2015,Maruti
+79,City,Pune,690199,42020, Petrol ,2015,Honda
+80,Suzuki,Pune,474699,74594, Diesel ,2013,Maruti
+81,Motors,Pune,2019899,6110, Petrol ,2021,MG
+82,Grand,Pune,562299,24346, Petrol ,2017,Hyundai
+83,Compass,Pune,1400999,65668, Diesel ,2017,Jeep
+84,Kwid,Pune,447599,48644, Petrol ,2018,Renault
+85,Innova,Pune,1814599,36877, Diesel ,2018,Toyota
+86,Nexon,Pune,920399,79673, Diesel ,2018,Tata
+87,Suzuki,Pune,447599,54352, Petrol ,2014,Maruti
+88,Zest,Pune,390000,64000, Diesel,2016,Tata
+89,Freestyle,Kanchipuram,650000,54000, Diesel,2018,Ford
+90,Suzuki,Chennai,575000,40000, Petrol,2017,Maruti
+91,Xylo,Kozhikode,525000,107000, Diesel ,2015,Mahindra
+92,Xylo,Kozhikode,525000,107000, Diesel ,2015,Mahindra
+93,5,Kolkata,1000000,38000, Diesel,2011,BMW
+94,i20,Bangalore,325000,86000, Petrol,2010,Hyundai
+95,Compass,Mumbai,3000000,10000, Diesel,2021,Jeep
+96,Suzuki,Pune,343299,48658, Petrol ,2017,Maruti
+97,Motors,Pune,1711499,11998, Petrol ,2020,MG
+98,Suzuki,Pune,918799,32513, Diesel ,2018,Maruti
+99,Grand,Pune,526399,21372, Petrol ,2016,Hyundai
+100,Vento,Pune,881099,34178, Petrol ,2017,Volkswagen
+101,Seltos,Pune,1764199,20547, Petrol ,2019,Kia
+102,Suzuki,Pune,639199,34731, Petrol ,2016,Maruti
+103,Grand,Pune,522999,30536, Petrol ,2016,Hyundai
+104,Motors,Bangalore,1917599,10205, Diesel ,2019,MG
+105,Suzuki,Pune,466599,25483, Petrol ,2017,Maruti
+106,Corolla,Pune,1397699,39113, Petrol ,2017,Toyota
+107,Suzuki,Pune,504399,43152, Petrol ,2017,Maruti
+108,Motors,Pune,1920399,5325, Petrol ,2020,MG
+109,Ecosport,Pune,917599,44705, Petrol ,2018,Ford
+110,Etios,Pune,319099,70022, Petrol ,2011,Toyota
+111,Suzuki,Pune,484399,47435, Petrol ,2017,Maruti
+112,Polo,Chennai,290000,89000, Petrol,2010,Volkswagen
+113,Thar,Chennai,1790000,9826, Petrol,2021,Mahindra
+114,EcoSport,Chennai,650000,83000, Diesel,2017,Ford
+115,City,Lucknow,73000,195000, Petrol ,2001,Honda
+116,Innova,Chennai,2200000,35000, Diesel,2019,Toyota
+117,Verna,Coimbatore,1550000,13000, Petrol ,2022,Hyundai
+118,e2o,Bangalore,420000,46000, Electric ,2016,Mahindra
+119,Fortuner,Kolkata,1595000,72000, Diesel ,2015,Toyota
+120,Xcent,Pune,573499,29026, Petrol ,2016,Hyundai
+121,Creta,Pune,879199,59258, Petrol ,2015,Hyundai
+122,XUV,Pune,733399,120399, Diesel ,2014,Mahindra
+123,Suzuki,Pune,967599,28853, Diesel ,2018,Maruti
+124,City,Pune,1539299,9811, Petrol ,2020,Honda
+125,i20,Pune,561499,43538, Petrol ,2015,Hyundai
+126,Creta,Pune,1042699,66400, Petrol ,2017,Hyundai
+127,Suzuki,Pune,1032099,59341, Diesel ,2017,Maruti
+128,Creta,Pune,903499,56246, Petrol ,2016,Hyundai
+129,Amaze,Pune,472499,35944, Petrol ,2014,Honda
+130,WR,Pune,771299,17699, Petrol ,2018,Honda
+131,Suzuki,Pune,447099,41065, Petrol ,2017,Maruti
+132,Kwid,Pune,504599,2311, Petrol ,2019,Renault
+133,Grand,Pune,620999,2991, Petrol ,2018,Hyundai
+134,Grand,Pune,433999,29762, Petrol ,2015,Hyundai
+135,Rapid,Pune,627499,91917, Diesel ,2016,Skoda
+136,Suzuki,Delhi,360000,0, Diesel,2014,Maruti
+137,Fortuner,Bangalore,1375000,131000, Diesel,2012,Toyota
+138,Suzuki,Chennai,69000,85000, Petrol,2000,Maruti
+139,Nano,Chennai,89000,37000, Petrol,2011,Tata
+140,Indica,Chennai,89000,67000, Diesel,2011,Tata
+141,Q7,Mumbai,2200000,120000, Diesel,2013,Audi
+142,XJ,Mumbai,4425000,71000, Diesel,2016,Jaguar
+143,Benz,Mumbai,4450000,105000, Diesel,2016,Mercedes
+144,Kwid,Pune,504599,2311, Petrol ,2019,Renault
+145,Suzuki,Pune,704199,30771, Petrol ,2018,Maruti
+146,Santro,Pune,513099,29488, Petrol ,2018,Hyundai
+147,Kwid,Pune,469399,36559, Petrol ,2019,Renault
+148,WR,Pune,844199,38242, Diesel ,2018,Honda
+149,Suzuki,Pune,544799,66426, Petrol ,2017,Maruti
+150,Polo,Pune,710899,16950, Petrol ,2018,Volkswagen
+151,Suzuki,Pune,580599,18866, Petrol ,2016,Maruti
+152,Suzuki,Pune,638499,53245, Diesel ,2017,Maruti
+153,Verna,Pune,654699,44543, Petrol ,2016,Hyundai
+154,Suzuki,Pune,894199,50128, Diesel ,2018,Maruti
+155,Suzuki,Pune,858599,56349, Diesel ,2018,Maruti
+156,Suzuki,Pune,992199,69524, Diesel ,2017,Maruti
+157,Polo,Pune,714999,41218, Petrol ,2017,Volkswagen
+158,Suzuki,Pune,765599,9085, Petrol ,2020,Maruti
+159,Motors,Bangalore,1800299,11292, Diesel ,2019,MG
+160,Benz,Mumbai,1190000,75000, Diesel ,2011,Mercedes
+161,Creta,Hyderabad,1452000,28000, Diesel,2018,Hyundai
+162,Rapid,Hyderabad,1026000,48000, Diesel,2018,Skoda
+163,Suzuki,Hyderabad,821000,51000, Diesel,2017,Maruti
+164,Grand,Chennai,725000,24990, Petrol,2020,Hyundai
+165,Suzuki,Delhi,600000,48600, Diesel ,2015,Maruti
+166,Suzuki,Delhi,336000,3600, Petrol ,2019,Maruti
+167,Indigo,Nanded,200000,115000, Diesel,2012,Tata
+168,Suzuki,Pune,680699,29594, Petrol ,2019,Maruti
+169,City,Pune,714899,55953, Petrol ,2015,Honda
+170,Suzuki,Pune,316799,16980, Petrol ,2016,Maruti
+171,Ecosport,Pune,675099,41828, Diesel ,2016,Ford
+172,Suzuki,Pune,1057399,64803, Diesel ,2018,Maruti
+173,Suzuki,Pune,938099,44460, Diesel ,2018,Maruti
+174,Nexon,Pune,1057699,14276, Diesel ,2018,Tata
+175,Suzuki,Pune,610099,23425, Petrol ,2019,Maruti
+176,Suzuki,Pune,452199,23056, Petrol ,2018,Maruti
+177,Elite,Pune,712699,16102, Petrol ,2019,Hyundai
+178,Suzuki,Pune,838699,56615, Diesel ,2019,Maruti
+179,TUV300,Pune,666899,70317, Diesel ,2015,Mahindra
+180,Motors,Bangalore,1681899,6760, Petrol ,2020,MG
+181,Motors,Chennai,1854599,8870, Petrol ,2020,MG
+182,Suzuki,Pune,571499,78209, Petrol ,2016,Maruti
+183,Vento,Pune,589199,64292, Petrol ,2015,Volkswagen
+184,Innova,Chennai,2350000,57000, Diesel,2020,Toyota
+185,Fortuner,Chennai,3650000,42000, Diesel,2019,Toyota
+186,Innova,Hyderabad,445000,141000, Diesel,2011,Toyota
+187,Rexton,Malappuram,1231000,82000, Diesel,2017,Ssangyong
+188,Fortuner,Chandigarh,1231000,117000, Diesel ,2012,Toyota
+189,TUV300,Chennai,600000,70000, Diesel,2015,Mahindra
+190,i20,Bangalore,320000,89450, Diesel ,2011,Hyundai
+191,Suzuki,Madurai,1175000,29000, Petrol,2020,Maruti
+192,Suzuki,Pune,351699,58771, Petrol ,2015,Maruti
+193,Suzuki,Pune,299199,53266, Petrol ,2016,Maruti
+194,Amaze,Pune,657199,9200, Petrol ,2019,Honda
+195,Ecosport,Pune,539299,61721, Petrol ,2014,Ford
+196,Grand,Pune,608399,18333, Petrol ,2017,Hyundai
+197,Ecosport,Pune,1042799,51780, Petrol ,2019,Ford
+198,Suzuki,Pune,645199,30854, Petrol ,2018,Maruti
+199,Ecosport,Pune,811899,24680, Petrol ,2017,Ford
+200,Vento,Pune,557799,85663, Petrol ,2015,Volkswagen
+201,Bolero,Pune,873999,20541, Diesel ,2021,Mahindra
+202,i20,Pune,278299,64182, Petrol ,2010,Hyundai
+203,Suzuki,Pune,986399,58819, Diesel ,2017,Maruti
+204,Suzuki,Pune,610099,32057, Petrol ,2019,Maruti
+205,Compass,Pune,1749899,18403, Petrol ,2018,Jeep
+206,Suzuki,Pune,443899,7877, Petrol ,2018,Maruti
+207,Verna,Pune,936299,15509, Petrol ,2018,Hyundai
+208,Jazz,Madurai,850000,15000, Petrol,2018,Honda
+209,Suzuki,Madurai,595000,75000, Diesel,2017,Maruti
+210,i10,Mumbai,175000,62000, Petrol,2008,Hyundai
+211,Creta,Chennai,930000,134500, Diesel,2018,Hyundai
+212,Fortuner,BolpurSantiniketan,1500000,63896, Diesel,2012,Toyota
+213,Scorpio,Chennai,159000,90000, Diesel,2005,Mahindra
+214,Suzuki,Chennai,69000,58000, Petrol,2007,Maruti
+215,Ikon,Chennai,69000,85000, Diesel,2008,Ford
+216,Suzuki,Pune,580599,48329, Petrol ,2016,Maruti
+217,Kwid,Pune,404499,21301, Petrol ,2019,Renault
+218,Suzuki,Pune,838699,34566, Diesel ,2019,Maruti
+219,Kwid,Pune,446499,34297, Petrol ,2018,Renault
+220,Hexa,Pune,1047499,119571, Diesel ,2017,Tata
+221,Suzuki,Pune,345599,27957, Petrol ,2018,Maruti
+222,Ecosport,Pune,784399,27210, Petrol ,2018,Ford
+223,Suzuki,Pune,489399,21610, Petrol ,2014,Maruti
+224,Suzuki,Pune,627499,40902, Petrol ,2017,Maruti
+225,Suzuki,Pune,288399,11057, Petrol ,2015,Maruti
+226,Suzuki,Pune,573999,72505, Petrol ,2016,Maruti
+227,Creta,Pune,1373699,31338, Petrol ,2018,Hyundai
+228,Suzuki,Pune,279799,28674, Petrol ,2016,Maruti
+229,Elite,Pune,658199,25416, Petrol ,2018,Hyundai
+230,Grand,Pune,465499,14765, Petrol ,2016,Hyundai
+231,Etios,Pune,563999,60380, Diesel ,2015,Toyota
+232,Santro,Chennai,59000,85000, Petrol,2001,Hyundai
+233,Getz,Chennai,119000,73000, Petrol,2006,Hyundai
+234,Santro,Chennai,69000,85000, Petrol,2004,Hyundai
+235,Santro,Chennai,89000,85000, Petrol,2002,Hyundai
+236,Figo,Chennai,129000,86000, Diesel,2012,Ford
+237,Fortuner,Lucknow,2931000,55000, Diesel,2019,Toyota
+238,Bolero,Chennai,790000,79950, Diesel,2018,Mahindra
+239,Linea,Chennai,200000,75000, Diesel,2009,Fiat
+240,Suzuki,Pune,718699,19775, Petrol ,2018,Maruti
+241,Tiago,Pune,543399,28495, Petrol ,2018,Tata
+242,Creta,Pune,1780399,28344, Diesel ,2020,Hyundai
+243,Glanza,Pune,757999,10801, Petrol ,2020,Toyota
+244,Nexon,Pune,1013999,4365, Petrol ,2019,Tata
+245,Suzuki,Pune,439999,53266, Diesel ,2016,Maruti
+246,Suzuki,Pune,839199,50866, Diesel ,2018,Maruti
+247,Suzuki,Pune,421799,24230, Petrol ,2019,Maruti
+248,Suzuki,Pune,580599,64275, Petrol ,2016,Maruti
+249,Venue,Pune,986799,8924, Petrol ,2019,Hyundai
+250,Motors,Pune,2057399,12208, Petrol ,2021,MG
+251,City,Pune,1082299,26956, Petrol ,2018,Honda
+252,Grand,Pune,576999,12223, Petrol ,2017,Hyundai
+253,Grand,Pune,533199,23960, Petrol ,2016,Hyundai
+254,Suzuki,Pune,473299,33687, Petrol ,2015,Maruti
+255,Motors,Pune,1838399,24887, Petrol ,2020,MG
+256,Innova,Mumbai,800000,74000, Diesel ,2013,Toyota
+257,Micra,Bhubaneswar,199000,40000, Petrol,2011,Nissan
+258,Creta,Pune,1750000,45000, Diesel,2020,Hyundai
+259,Suzuki,Chennai,595000,41000, Diesel,2018,Maruti
+260,3,Mumbai,1890000,61000, Diesel ,2015,BMW
+261,XF,Mumbai,2150000,20000, Diesel ,2014,Jaguar
+262,Verna,Mumbai,699000,26000, Petrol ,2015,Hyundai
+263,Grand,Pune,451799,71423, Petrol ,2015,Hyundai
+264,Grand,Pune,446999,34095, Petrol ,2015,Hyundai
+265,Suzuki,Pune,470799,32658, Petrol ,2016,Maruti
+266,Suzuki,Pune,511799,33166, Petrol ,2017,Maruti
+267,Suzuki,Chennai,399899,31284, Petrol ,2014,Maruti
+268,Suzuki,Pune,375999,66090, Petrol ,2015,Maruti
+269,Ecosport,Pune,664799,51295, Petrol ,2016,Ford
+270,Suzuki,Pune,617799,48693, Petrol ,2016,Maruti
+271,Suzuki,Pune,749299,36626, Diesel ,2017,Maruti
+272,Duster,Pune,795799,55752, Diesel ,2016,Renault
+273,Tigor,Pune,543499,49341, Diesel ,2017,Tata
+274,Suzuki,Chennai,317199,60251, Petrol ,2015,Maruti
+275,Suzuki,Pune,373699,22269, Petrol ,2015,Maruti
+276,Ameo,Pune,501799,38999, Petrol ,2016,Volkswagen
+277,Suzuki,Pune,838699,29110, Diesel ,2019,Maruti
+278,Creta,Pune,1804399,14506, Petrol ,2020,Hyundai
+279,Beat,Bangalore,175000,55000, Petrol,2010,Chevrolet
+280,Hexa,Madurai,1200000,60000, Diesel,2018,Tata
+281,Corolla,Chennai,170000,80000, Petrol,2006,Toyota
+282,Suzuki,,65000,108252, Petrol,2005,Maruti
+283,Suzuki,Chennai,360000,36000, Petrol,2014,Maruti
+284,Xcent,Chennai,299000,95000, Diesel ,2016,Hyundai
+285,Figo,Chennai,176000,88000, Diesel ,2010,Ford
+286,Suzuki,Chennai,325000,60000, Petrol ,2014,Maruti
+287,Creta,Pune,1804399,14506, Petrol ,2020,Hyundai
+288,Suzuki,Pune,985299,29115, Diesel ,2017,Maruti
+289,Suzuki,Pune,642899,34763, Petrol ,2017,Maruti
+290,Suzuki,Chennai,740000,12500, Diesel ,2015,Maruti
+291,Suzuki,Pune,610000,85000, Petrol,2017,Maruti
+292,Grand,Pune,495000,40000, Petrol,2016,Hyundai
+293,Verna,Pune,510000,71000, Petrol,2014,Hyundai
+294,Suzuki,Pune,560000,44000, Petrol,2017,Maruti
+295,Innova,Pune,455000,124000, Diesel,2009,Toyota
+296,Suzuki,Pune,350000,78000, CNG,2012,Maruti
+297,Kwid,Bangalore,463099,44696, Petrol ,2017,Renault
+298,Suzuki,Pune,350599,33004, Petrol ,2018,Maruti
+299,Verna,Chennai,636299,46034, Petrol ,2016,Hyundai
+300,Grand,Chennai,698199,60307, Petrol ,2020,Hyundai
+301,Grand,Chennai,764199,8825, Petrol ,2021,Hyundai
+302,Suzuki,Chennai,524799,5743, Petrol ,2019,Maruti
+303,EcoSport,Chennai,420000,87000, Diesel ,2013,Ford
+304,Seltos,Bangalore,1831000,19500, Petrol,2020,Kia
+305,Beat,Chennai,210000,60000, Petrol,2010,Chevrolet
+306,Vento,Chennai,465000,70000, Petrol,2013,Volkswagen
+307,Q7,Chennai,2250000,65000, Diesel,2017,Audi
+308,Suzuki,Chennai,1090000,35623, Petrol,2020,Maruti
+309,Innova,Bangalore,375000,160000, Petrol,2005,Toyota
+310,i20,Chennai,225000,98500, Petrol,2009,Hyundai
+311,Suzuki,Chennai,524799,5743, Petrol ,2019,Maruti
+312,Suzuki,Chennai,493899,25735, Petrol ,2019,Maruti
+313,Elite,Chennai,825299,37522, Petrol ,2019,Hyundai
+314,Suzuki,Chennai,495499,38955, Petrol ,2018,Maruti
+315,Eon,Chennai,277599,65308, Petrol ,2014,Hyundai
+316,Suzuki,Chennai,473899,30467, Petrol ,2017,Maruti
+317,Venue,Chennai,855299,1954, Petrol ,2019,Hyundai
+318,Santro,Chennai,540299,35220, Petrol ,2019,Hyundai
+319,Elite,Chennai,642899,75876, Petrol ,2016,Hyundai
+320,Suzuki,Chennai,442299,27020, Petrol ,2021,Maruti
+321,Triber,Chennai,725399,13739, Petrol ,2019,Renault
+322,Suzuki,Chennai,558299,21544, Petrol ,2019,Maruti
+323,Suzuki,Chennai,354299,13816, Petrol ,2016,Maruti
+324,Elite,Chennai,673599,23817, Petrol ,2016,Hyundai
+325,Grand,Chennai,525099,60985, Petrol ,2017,Hyundai
+326,Verna,Chennai,525000,80000, Diesel,2012,Hyundai
+327,Polo,Chennai,675000,30123, Petrol,2018,Volkswagen
+328,Kwid,Chennai,325000,67000, Petrol,2016,Renault
+329,Triber,Chennai,645000,26123, Petrol,2020,Renault
+330,Suzuki,Chennai,785000,60123, Petrol,2017,Maruti
+331,TUV300,Chennai,690000,52123, Diesel,2016,Mahindra
+332,Suzuki,Chennai,425000,11123, Petrol,2018,Maruti
+333,Elite,Chennai,645000,41233, Petrol,2019,Hyundai
+334,Suzuki,Chennai,529699,50141, Petrol ,2016,Maruti
+335,Suzuki,Bangalore,1081899,86033, Diesel,2018,Maruti
+336,Linea,Kolkata,256000,30000, Petrol ,2012,Fiat
+337,City,Bangalore,290000,86924, Petrol,2008,Honda
+338,Polo,Bangalore,735000,68870, Petrol,2016,Volkswagen
+339,Suzuki,Bangalore,1244799,22292, Petrol ,2019,Maruti
+340,Amaze,Bangalore,474399,44013, Petrol ,2014,Honda
+341,Suzuki,Bangalore,389399,96250, Petrol ,2016,Maruti
+342,Suzuki,Chennai,562399,59839, Petrol ,2017,Maruti
+343,Grand,Chennai,446699,49693, Petrol ,2015,Hyundai
+344,Kwid,Bangalore,439999,22223, Petrol ,2017,Renault
+345,Amaze,Bangalore,918999,8030, Petrol ,2021,Honda
+346,Polo,Bangalore,815799,38780, Petrol ,2016,Volkswagen
+347,Suzuki,Bangalore,896799,31919, Diesel ,2018,Maruti
+348,i10,Bangalore,411399,47564, Petrol ,2015,Hyundai
+349,Grand,Bangalore,498999,42836, Petrol ,2013,Hyundai
+350,Kwid,Chennai,470000,6000, Petrol,2020,Renault
+351,Indica,Chennai,69000,85000, Diesel,2007,Tata
+352,TUV300,Madurai,925000,27000, Diesel,2018,Mahindra
+353,Scorpio,Chennai,495000,690000, Diesel,2013,Mahindra
+354,Suzuki,Chennai,1090000,35000, Petrol,2020,Maruti
+355,Etios,Delhi,300000,135000, Diesel,2013,Toyota
+356,Aria,Bangalore,450000,115000, Diesel,2012,Tata
+357,Figo,Bangalore,357999,50488, Petrol ,2015,Ford
+358,Suzuki,Pune,462599,12916, Petrol ,2018,Maruti
+359,Elite,Bangalore,695199,30731, Petrol ,2016,Hyundai
+360,Suzuki,Bangalore,490399,8825, Petrol ,2019,Maruti
+361,Kwid,Bangalore,340099,21627, Petrol ,2016,Renault
+362,Suzuki,Bangalore,997899,5580, Petrol ,2020,Maruti
+363,i10,Bangalore,351599,41371, Petrol ,2013,Hyundai
+364,Suzuki,Bangalore,603799,42313, Petrol ,2016,Maruti
+365,Elite,Bangalore,599799,74913, Petrol ,2016,Hyundai
+366,Suzuki,Bangalore,456099,74760, Petrol ,2018,Maruti
+367,Ecosport,Bangalore,993699,34045, Diesel ,2019,Ford
+368,Suzuki,Bangalore,312299,143147, Petrol ,2010,Maruti
+369,Venue,Bangalore,1221799,28149, Petrol ,2019,Hyundai
+370,Suzuki,Bangalore,522999,38049, Petrol ,2015,Maruti
+371,EON,Bangalore,323399,78895, Petrol ,2014,Hyundai
+372,Grand,Bangalore,510799,27027, Petrol ,2015,Hyundai
+373,XUV,Pune,750000,66000, Diesel,2013,Mahindra
+374,Getz,Bangalore,155000,82000, Petrol,2005,Hyundai
+375,Suzuki,Chennai,350000,57000, Petrol,2011,Maruti
+376,Amaze,Pune,410000,71000, Diesel,2014,Honda
+377,Eon,Pune,275000,47000, CNG,2014,Hyundai
+378,Grand,Pune,465000,37000, Petrol,2017,Hyundai
+379,Suzuki,Bangalore,145000,73000, Petrol,2007,Maruti
+380,Getz,Bangalore,165000,82650, Petrol,2007,Hyundai
+381,Suzuki,Pune,910799,23940, Petrol ,2020,Maruti
+382,Captur,Chennai,722899,26678, Petrol ,2018,Renault
+383,WR,Pune,809499,41342, Diesel ,2018,Honda
+384,Suzuki,Bangalore,297399,59614, Petrol ,2013,Maruti
+385,Suzuki,Bangalore,411999,39550, Petrol ,2016,Maruti
+386,Triber,Bangalore,623399,28621, Petrol ,2019,Renault
+387,Brio,Bangalore,372399,60437, Petrol ,2013,Honda
+388,Suzuki,Chennai,518099,26598, Petrol ,2018,Maruti
+389,Amaze,Chennai,485599,62723, Petrol ,2015,Honda
+390,Suzuki,Chennai,636899,21145, Petrol ,2017,Maruti
+391,Grand,Pune,396999,48699, Petrol ,2013,Hyundai
+392,Ecosport,Pune,980399,10102, Petrol ,2019,Ford
+393,Suzuki,Bangalore,658999,34881, Petrol ,2017,Maruti
+394,EON,Bangalore,304099,53997, Petrol ,2015,Hyundai
+395,Suzuki,Bangalore,362599,49076, Petrol ,2015,Maruti
+396,Suzuki,Bangalore,344199,65951, Petrol ,2014,Maruti
+397,Suzuki,Bangalore,215000,116000, Petrol,2007,Maruti
+398,Rapid,Bangalore,550000,136000, Diesel ,2015,Skoda
+399,Duster,Pune,550000,85000, Diesel,2013,Renault
+400,Santro,Chennai,89000,85000, Petrol,2002,Hyundai
+401,Suzuki,Chennai,79000,85000, Petrol,2001,Maruti
+402,Aveo,Chennai,67000,63000, Petrol,2007,Chevrolet
+403,Ikon,Chennai,59000,73000, Petrol,2009,Ford
+404,Suzuki,Chennai,69000,85000, Petrol,2007,Maruti
+405,Suzuki,Bangalore,462399,15032, Petrol ,2017,Maruti
+406,Suzuki,Pune,319999,15575, Petrol ,2017,Maruti
+407,Suzuki,Pune,275699,147819, Diesel ,2010,Maruti
+408,Grand,Bangalore,501599,35203, Petrol ,2016,Hyundai
+409,Suzuki,Bangalore,506599,7597, Petrol ,2020,Maruti
+410,Scorpio,Bangalore,1198599,34883, Diesel ,2018,Mahindra
+411,Ecosport,Bangalore,775499,59580, Diesel ,2017,Ford
+412,Suzuki,Bangalore,338999,49647, Petrol ,2011,Maruti
+413,Verna,Bangalore,652699,67577, Petrol ,2016,Hyundai
+414,Tiago,Bangalore,535899,10890, Petrol ,2017,Tata
+415,Suzuki,Chennai,492099,57444, Petrol ,2015,Maruti
+416,City,Bangalore,885999,33598, Petrol ,2017,Honda
+417,Freestyle,Bangalore,694899,17804, Petrol ,2018,Ford
+418,Suzuki,Pune,450599,62613, Petrol ,2013,Maruti
+419,i20,Bangalore,377999,56974, Petrol ,2010,Hyundai
+420,Redi,Bangalore,491499,1405, Petrol ,2021,Datsun
+421,Suzuki,Chennai,89000,85000, Petrol,2008,Maruti
+422,Creta,Bangalore,1865000,8000, Petrol,2020,Hyundai
+423,GO,Kolkata,235000,29000, Petrol,2014,Datsun
+424,Bolero,Bangalore,1025000,22000, Diesel,2020,Mahindra
+425,Polo,Pune,450000,118000, Petrol,2014,Volkswagen
+426,Creta,Pondicherry,1575000,23000, Diesel,2020,Hyundai
+427,Suzuki,Pondicherry,695000,34000, Diesel,2018,Maruti
+428,Civic,Hyderabad,295000,87000, Petrol,2008,Honda
+429,Verna,Pune,1171199,36965, Petrol ,2018,Hyundai
+430,WR,Pune,625699,25526, Petrol ,2017,Honda
+431,Grand,Chennai,453199,20235, Petrol ,2016,Hyundai
+432,Suzuki,Chennai,850499,61064, Diesel ,2018,Maruti
+433,Suzuki,Chennai,548699,12558, Petrol ,2018,Maruti
+434,Suzuki,Bangalore,498799,14179, Petrol ,2019,Maruti
+435,City,Chennai,1377199,20379, Petrol ,2020,Honda
+436,Ecosport,Pune,772799,42837, Petrol ,2017,Ford
+437,Elite,Chennai,572599,67473, Petrol ,2016,Hyundai
+438,City,Bangalore,774899,27576, Petrol ,2016,Honda
+439,Suzuki,Pune,885099,80900, Diesel ,2017,Maruti
+440,Elite,Bangalore,687499,100934, Diesel ,2017,Hyundai
+441,Elite,Bangalore,567799,29060, Petrol ,2015,Hyundai
+442,i10,Chennai,398499,36129, Petrol ,2016,Hyundai
+443,Suzuki,Pune,348499,156442, Diesel ,2011,Maruti
+444,Suzuki,Chennai,520899,48710, Petrol ,2018,Maruti
+445,Figo,Bangalore,225000,80000, Diesel,2012,Ford
+446,City,Bangalore,725000,57000, Petrol,2015,Honda
+447,CRV,Hyderabad,240000,97000, LPG,2004,Honda
+448,Amaze,Pune,425000,44000, Petrol,2013,Honda
+449,Suzuki,Pune,500000,57000, Petrol,2015,Maruti
+450,Suzuki,Pune,250000,77000, Petrol,2008,Maruti
+451,Suzuki,Pune,360000,81000, Petrol,2013,Maruti
+452,Creta,Pune,975000,41000, Petrol,2016,Hyundai
+453,Ecosport,Pune,916799,20619, Petrol ,2018,Ford
+454,Suzuki,Pune,480999,51149, Petrol + CNG ,2018,Maruti
+455,Nexon,Bangalore,1043299,12978, Petrol ,2020,Tata
+456,City,Bangalore,787399,40025, Petrol ,2016,Honda
+457,Grand,Bangalore,501599,63075, Petrol ,2016,Hyundai
+458,Brio,Chennai,362999,78724, Petrol ,2012,Honda
+459,Kwid,Pune,403199,12257, Petrol ,2018,Renault
+460,Venue,Bangalore,1022599,26890, Diesel ,2019,Hyundai
+461,Micra,Chennai,483199,20485, Petrol ,2018,Nissan
+462,EON,Chennai,321399,69220, Petrol ,2017,Hyundai
+463,Suzuki,Chennai,307999,41900, Petrol ,2017,Maruti
+464,Suzuki,Bangalore,478599,11944, Petrol ,2019,Maruti
+465,Suzuki,Chennai,405199,66143, Petrol ,2015,Maruti
+466,Suzuki,Chennai,314999,16563, Petrol ,2018,Maruti
+467,Elite,Pune,684599,14460, Petrol ,2016,Hyundai
+468,Suzuki,Bangalore,413099,47120, Petrol ,2018,Maruti
+469,Cruze,Bangalore,345000,115000, Diesel,2011,Chevrolet
+470,Scala,Bangalore,385000,79200, Diesel,2013,Renault
+471,Verna,Chennai,690000,48877, Diesel,2016,Hyundai
+472,WRV,Mumbai,825000,32000, Petrol,2019,Honda
+473,Corolla,Mumbai,1425000,51000, Petrol,2018,Toyota
+474,Suzuki,Udaipur,295000,56000, Petrol,2014,Maruti
+475,Tiago,Pune,700000,14000, Petrol,2022,Tata
+476,Aveo,Chennai,69000,79000, Petrol,2006,Chevrolet
+477,Suzuki,Chennai,501199,147960, Diesel ,2016,Maruti
+478,Suzuki,Pune,357399,38766, Petrol ,2014,Maruti
+479,Suzuki,Bangalore,494199,8409, Petrol ,2019,Maruti
+480,Kwid,Bangalore,424099,20718, Petrol ,2019,Renault
+481,Suzuki,Chennai,598299,51125, Petrol ,2017,Maruti
+482,Grand,Bangalore,477599,64459, Petrol ,2014,Hyundai
+483,Suzuki,Pune,447599,29467, Petrol ,2014,Maruti
+484,Nexon,Pune,703999,18019, Petrol ,2017,Tata
+485,Suzuki,Chennai,416099,40710, Petrol ,2016,Maruti
+486,Suzuki,Chennai,559099,1956, Petrol ,2021,Maruti
+487,Kwid,Bangalore,463099,44696, Petrol,2017,Renault
+488,Grand,Bangalore,527099,21531, Petrol ,2018,Hyundai
+489,Seltos,Pune,1517999,20989, Petrol ,2019,Kia
+490,i20,Chennai,431099,33901, Petrol ,2013,Hyundai
+491,Grand,Chennai,539799,54696, Petrol ,2018,Hyundai
+492,Motors,Bangalore,1800299,11292, Diesel ,2019,MG
+493,Duster,Pune,1025000,14000, Diesel,2020,Renault
+494,Logan,Chennai,129000,97000, Diesel,2007,Mahindra
+495,Indigo,Chennai,79000,85000, Diesel,2007,Tata
+496,EcoSport,Pune,525000,50000, Diesel,2014,Ford
+497,Jazz,Pune,565000,53000, Petrol,2016,Honda
+498,Suzuki,Pune,435000,27000, Petrol,2016,Maruti
+499,Suzuki,Pune,425000,52000, Petrol,2016,Maruti
+500,City,Chennai,250000,149000, Petrol,2007,Honda
+501,Grand,Bangalore,616599,27317, Petrol ,2017,Hyundai
+502,Xcent,Bangalore,466599,79784, Petrol ,2014,Hyundai
+503,Q3,Chennai,1656999,73656, Diesel ,2015,Audi
+504,Tiago,Bangalore,562999,27664, Petrol ,2018,Tata
+505,Verna,Bangalore,488899,41898, Petrol ,2012,Hyundai
+506,Suzuki,Chennai,514599,4889, Petrol ,2021,Maruti
+507,Grand,Chennai,495299,39836, Petrol ,2015,Hyundai
+508,Jazz,Bangalore,752399,16108, Petrol ,2016,Honda
+509,Grand,Bangalore,474799,46111, Petrol ,2015,Hyundai
+510,Suzuki,Bangalore,849599,23761, Petrol ,2018,Maruti
+511,Suzuki,Bangalore,663199,146782, Diesel ,2016,Maruti
+512,Grand,Bangalore,566699,26597, Petrol ,2016,Hyundai
+513,Suzuki,Chennai,471199,12323, Petrol ,2018,Maruti
+514,Kwid,Bangalore,385499,3230, Petrol ,2017,Renault
+515,Suzuki,Chennai,491599,62059, Petrol ,2016,Maruti
+516,Suzuki,Bangalore,725699,28188, Petrol ,2019,Maruti
+517,Suzuki,Pune,350000,55000, Petrol,2013,Maruti
+518,Suzuki,Pune,210000,79000, Petrol,2009,Maruti
+519,Tiago,Pune,460000,55000, Petrol,2017,Tata
+520,5,NaviMumbai,990000,49000, Petrol ,2010,BMW
+521,Indica,Bangalore,190000,56000, Petrol,2009,Tata
+522,Suzuki,Pune,625000,83000, Petrol,2014,Maruti
+523,Suzuki,Chennai,590000,39226, Petrol,2016,Maruti
+524,Suzuki,Chennai,740000,33901, Petrol,2019,Maruti
+525,Grand,Bangalore,640099,32877, Petrol ,2019,Hyundai
+526,Suzuki,Chennai,575099,17283, Petrol ,2019,Maruti
+527,Suzuki,Bangalore,1081899,86033, Diesel ,2018,Maruti
+528,Polo,Bangalore,726399,17419, Petrol ,2018,Volkswagen
+529,Suzuki,Bangalore,480399,24416, Petrol ,2019,Maruti
+530,Kwid,Bangalore,369599,26700, Petrol ,2017,Renault
+531,Suzuki,Bangalore,451399,28979, Petrol ,2014,Maruti
+532,Suzuki,Bangalore,494099,27150, Petrol ,2019,Maruti
+533,EcoSport,Bangalore,1240899,3195, Petrol ,2020,Ford
+534,Eon,Bangalore,286199,26761, Petrol ,2013,Hyundai
+535,Grand,Bangalore,509399,71992, Petrol ,2017,Hyundai
+536,Suzuki,Bangalore,378099,27239, Petrol ,2016,Maruti
+537,Jazz,Chennai,586699,36244, Petrol ,2016,Honda
+538,Suzuki,Pune,906899,69807, Diesel ,2019,Maruti
+539,Suzuki,Pune,882199,31803, Diesel ,2019,Maruti
+540,Jazz,Bangalore,507999,92373, Petrol ,2015,Honda
+541,Etios,Gurgaon,240000,200000, Diesel,2013,Toyota
+542,EcoSport,Bangalore,825000,46000, Diesel,2016,Ford
+543,Innova,Bangalore,845000,179000, Diesel,2011,Toyota
+544,Grand,Bangalore,475000,59000, Petrol,2016,Hyundai
+545,Creta,Bangalore,1325000,72000, Diesel,2017,Hyundai
+546,Creta,Bangalore,1245000,56000, Diesel,2017,Hyundai
+547,XUV,Bangalore,975000,87000, Diesel,2014,Mahindra
+548,Suzuki,Pune,782999,59612, Diesel ,2016,Maruti
+549,Ecosport,Bangalore,623399,30212, Petrol ,2014,Ford
+550,Suzuki,Chennai,548699,18113, Petrol ,2018,Maruti
+551,Suzuki,Bangalore,397099,48435, Petrol ,2018,Maruti
+552,Suzuki,Bangalore,392099,29297, Petrol ,2015,Maruti
+553,Suzuki,Bangalore,354599,53525, Petrol ,2012,Maruti
+554,Amaze,Bangalore,719599,15890, Petrol ,2018,Honda
+555,WR,Bangalore,834099,31694, Petrol ,2019,Honda
+556,Suzuki,Chennai,365899,36279, Petrol ,2017,Maruti
+557,i10,Chennai,400899,33349, Petrol ,2015,Hyundai
+558,Etios,Chennai,320199,103182, Petrol ,2012,Toyota
+559,Xcent,Chennai,457399,63048, Petrol ,2016,Hyundai
+560,Suzuki,Chennai,717699,26358, Petrol ,2017,Maruti
+561,Suzuki,Chennai,417299,18932, Petrol ,2017,Maruti
+562,Suzuki,Pune,323199,20369, Petrol ,2018,Maruti
+563,Jazz,Bangalore,633999,58769, Petrol ,2016,Honda
+564,EcoSport,Pune,600000,52000, Diesel,2016,Ford
+565,Polo,Bangalore,795000,15000, Petrol,2019,Volkswagen
+566,Suzuki,Pune,1000000,70000, Diesel,2019,Maruti
+567,i20,Pune,385000,52000, Petrol,2012,Hyundai
+568,i20,Pune,395000,32000, Petrol,2013,Hyundai
+569,Fortuner,Chennai,1750000,155000, Diesel,2015,Toyota
+570,Suzuki,Chennai,600000,50000, Petrol,2017,Maruti
+571,Verito,Kurnool,330000,120000, Diesel,2015,Mahindra
+572,Creta,Chennai,875999,123920, Diesel ,2017,Hyundai
+573,EON,Pune,309399,17900, Petrol ,2016,Hyundai
+574,Suzuki,Bangalore,658999,31041, Petrol ,2017,Maruti
+575,Suzuki,Chennai,514099,61875, Petrol ,2018,Maruti
+576,Elite,Chennai,672899,29210, Petrol ,2016,Hyundai
+577,TUV300,Pune,620099,35826, Diesel ,2016,Mahindra
+578,Freestyle,Bangalore,733999,29364, Petrol ,2019,Ford
+579,Triber,Chennai,664699,16304, Petrol ,2021,Renault
+580,Suzuki,Chennai,454299,95731, Petrol ,2015,Maruti
+581,Suzuki,Bangalore,357499,31011, Petrol ,2010,Maruti
+582,Suzuki,Pune,447599,30601, Petrol ,2014,Maruti
+583,Suzuki,Bangalore,422299,14568, Petrol ,2019,Maruti
+584,Etios,Bangalore,449699,89559, Petrol ,2012,Toyota
+585,Grand,Bangalore,493499,48834, Petrol ,2014,Hyundai
+586,Elite,Chennai,605699,74190, Diesel ,2014,Hyundai
+587,EcoSport,Bangalore,755099,43077, Petrol ,2016,Ford
+588,Suzuki,Chennai,490000,58000, Petrol,2015,Maruti
+589,City,Chennai,450000,99000, Petrol,2011,Honda
+590,Indigo,Bangalore,160000,88500, Diesel,2009,Tata
+591,Beat,Bangalore,215000,85000, Diesel,2012,Chevrolet
+592,City,Pune,1150000,29000, Petrol,2019,Honda
+593,Suzuki,Bangalore,349000,65000, Petrol,2015,Maruti
+594,Motors,Surat,1401000,16000, Petrol ,2020,MG
+595,Motors,Ahmedabad,1401000,16000, Petrol ,2020,MG
+596,Suzuki,Bangalore,432699,17981, Petrol ,2018,Maruti
+597,Suzuki,Chennai,418599,20780, Petrol ,2018,Maruti
+598,Suzuki,Chennai,275799,56719, Petrol ,2014,Maruti
+599,Suzuki,Bangalore,456199,31108, Petrol ,2015,Maruti
+600,City,Chennai,728499,33611, Petrol ,2016,Honda
+601,Suzuki,Chennai,431599,43700, Petrol ,2019,Maruti
+602,Suzuki,Pune,533099,49920, Petrol ,2017,Maruti
+603,Suzuki,Bangalore,451399,57338, Petrol ,2014,Maruti
+604,Venue,Bangalore,840699,23096, Petrol ,2020,Hyundai
+605,Suzuki,Chennai,486499,48732, Petrol ,2016,Maruti
+606,City,Pune,450199,67924, Petrol ,2012,Honda
+607,Suzuki,Chennai,418999,30418, Petrol ,2014,Maruti
+608,City,Chennai,621299,50593, Petrol ,2014,Honda
+609,i20,Chennai,508399,136381, Petrol ,2016,Hyundai
+610,Suzuki,Pune,390999,46943, Petrol ,2015,Maruti
+611,Suzuki,Bangalore,675099,36277, Petrol ,2017,Maruti
+612,X5,Madurai,3600000,110000, Diesel,2014,BMW
+613,Seltos,Surat,1501000,5600, Diesel ,2021,Kia
+614,Suzuki,Madurai,825000,44000, Diesel,2019,Maruti
+615,Suzuki,Madurai,1100000,40000, Petrol,2019,Maruti
+616,Seltos,Ahmedabad,1501000,5600, Diesel ,2021,Kia
+617,Suzuki,Ahmedabad,130000,45000, Petrol ,2007,Maruti
+618,Etios,Chennai,325000,150000, Diesel,2012,Toyota
+619,Indigo,Chennai,210000,90000, Diesel,2016,Tata
+620,Xcent,Chennai,464199,70359, Diesel ,2015,Hyundai
+621,EON,Chennai,343999,42205, Petrol ,2017,Hyundai
+622,Micra,Chennai,441499,60539, Petrol ,2015,Nissan
+623,Suzuki,Bangalore,684999,16533, Petrol ,2019,Maruti
+624,Polo,Pune,815399,26596, Petrol ,2017,Volkswagen
+625,Grand,Pune,468999,30912, Petrol ,2016,Hyundai
+626,Venue,Bangalore,1194799,17951, Diesel ,2019,Hyundai
+627,Polo,Bangalore,599899,36928, Petrol ,2015,Volkswagen
+628,Suzuki,Bangalore,710199,22854, Petrol ,2018,Maruti
+629,i20,Bangalore,474399,89156, Petrol ,2014,Hyundai
+630,Suzuki,Chennai,701399,41999, Petrol ,2019,Maruti
+631,City,Chennai,834599,66145, Petrol ,2017,Honda
+632,Suzuki,Bangalore,333699,29157, Petrol ,2017,Maruti
+633,EON,Chennai,349799,33882, Petrol ,2017,Hyundai
+634,EON,Bangalore,286199,29379, Petrol ,2013,Hyundai
+635,Suzuki,Bangalore,386699,17352, Petrol ,2019,Maruti
+636,Fortuner,Chennai,1050000,195000, Diesel,2011,Toyota
+637,Suzuki,Chennai,695000,16189, Petrol,2020,Maruti
+638,Suzuki,Chennai,695000,41341, Diesel,2018,Maruti
+639,Tiago,Pune,550000,62000, Diesel,2019,Tata
+640,Creta,Delhi,1300000,19000, Diesel ,2021,Hyundai
+641,Suzuki,Jaipur,225000,56000, Petrol,2011,Maruti
+642,Suzuki,Chennai,250000,91000, Petrol,2010,Maruti
+643,Triber,Bangalore,659199,13486, Petrol ,2019,Renault
+644,Grand,Chennai,572599,33562, Petrol ,2018,Hyundai
+645,Verna,Pune,1171199,13691, Petrol ,2018,Hyundai
+646,Grand,Bangalore,557199,31980, Petrol ,2017,Hyundai
+647,Grand,Chennai,531399,69526, Petrol ,2016,Hyundai
+648,Suzuki,Bangalore,426199,21492, Petrol ,2016,Maruti
+649,Suzuki,Chennai,432999,47425, Petrol ,2016,Maruti
+650,Grand,Pune,458399,40988, Petrol ,2016,Hyundai
+651,Compass,Chennai,1465199,51983, Diesel ,2018,Jeep
+652,Suzuki,Pune,783099,69376, Diesel ,2018,Maruti
+653,Suzuki,Chennai,562399,33094, Petrol ,2017,Maruti
+654,Tiago,Bangalore,529199,26237, Petrol ,2017,Tata
+655,Brio,Bangalore,447199,42415, Petrol ,2015,Honda
+656,Creta,Pune,944099,112308, Diesel ,2016,Hyundai
+657,Suzuki,Bangalore,452099,61427, Petrol ,2017,Maruti
+658,Motors,Bangalore,1917599,10205, Diesel ,2019,MG
+659,Suzuki,Chennai,179000,67000, Petrol,2011,Maruti
+660,Innova,Chennai,775000,160000, Diesel,2010,Toyota
+661,Suzuki,Kolkata,425000,53000, Diesel,2013,Maruti
+662,Suzuki,Hyderabad,550000,59888, Petrol,2017,Maruti
+663,Suzuki,Hyderabad,795000,58492, Petrol ,2018,Maruti
+664,City,Kolkata,350888,45000, Petrol ,2011,Honda
+665,Suzuki,Kolkata,275000,48000, Diesel,2012,Maruti
+666,Nexon,Chennai,890000,34000, Petrol,2018,Tata
+667,Suzuki,Chennai,580599,75691, Diesel ,2017,Maruti
+668,Suzuki,Chennai,223299,84301, Petrol ,2013,Maruti
+669,Tiago,Bangalore,600399,38346, Petrol ,2019,Tata
+670,Suzuki,Chennai,367399,41530, Petrol ,2017,Maruti
+671,Ecosport,Pune,704099,23049, Petrol ,2017,Ford
+672,Suzuki,Bangalore,377899,74510, Petrol ,2016,Maruti
+673,Suzuki,Bangalore,458699,20141, Petrol ,2016,Maruti
+674,Ecosport,Chennai,566199,85860, Petrol ,2015,Ford
+675,Suzuki,Pune,594599,63133, Diesel ,2017,Maruti
+676,Suzuki,Bangalore,678699,71894, Petrol ,2018,Maruti
+677,Duster,Bangalore,883099,95627, Diesel ,2017,Renault
+678,Ecosport,Pune,578099,75324, Diesel ,2014,Ford
+679,Suzuki,Pune,305899,64611, Petrol ,2015,Maruti
+680,Suzuki,Bangalore,457399,77128, Petrol ,2016,Maruti
+681,Suzuki,Bangalore,316799,36306, Petrol ,2016,Maruti
+682,i20,Bangalore,399999,83803, Petrol ,2011,Hyundai
+683,XUV,Mumbai,1100000,44000, Diesel ,2018,Mahindra
+684,KUV100,Chennai,325000,108000, Diesel,2018,Mahindra
+685,i20,Chennai,550000,55000, Diesel,2018,Hyundai
+686,City,Kolkata,990888,700, Petrol ,2020,Honda
+687,Jeep,Ahmedabad,480000,25, Diesel,2020,Mahindra
+688,Suzuki,Hyderabad,500000,258, Petrol,2018,Maruti
+689,Suzuki,Chennai,390000,81152, Diesel,2011,Maruti
+690,Fortuner,Chennai,1750000,155000, Diesel,2015,Toyota
+691,i20,Bangalore,399999,83803, Petrol ,2011,Hyundai
+692,Creta,Chennai,841499,75398, Petrol ,2017,Hyundai
+693,City,Bangalore,1016899,42317, Petrol ,2017,Honda
+694,Suzuki,Bangalore,748599,60214, Diesel ,2018,Maruti
+695,Suzuki,Pune,622099,58861, Diesel ,2017,Maruti
+696,Polo,Pune,530699,27995, Petrol ,2016,Volkswagen
+697,Suzuki,Bangalore,471899,61018, Petrol ,2017,Maruti
+698,Suzuki,Chennai,505399,67109, Petrol ,2015,Maruti
+699,Suzuki,Chennai,460299,81811, Petrol ,2017,Maruti
+700,Verna,Pune,683999,27357, Petrol ,2017,Hyundai
+701,Polo,Bangalore,639699,53293, Petrol ,2018,Volkswagen
+702,Suzuki,Bangalore,510499,45260, Petrol ,2017,Maruti
+703,Venue,Pune,1185499,3139, Petrol ,2019,Hyundai
+704,Suzuki,Bangalore,471899,44690, Petrol ,2017,Maruti
+705,Santro,Bangalore,579899,13858, Petrol ,2019,Hyundai
+706,Suzuki,Bangalore,333699,25256, Petrol ,2017,Maruti
+707,i20,Bangalore,385000,94000, Diesel,2012,Hyundai
+708,Suzuki,Delhi,590000,44100, Hybrid ,2016,Maruti
+709,Amaze,Kolkata,375888,47000, Petrol ,2016,Honda
+710,Santa,Mumbai,775000,126000, Diesel,2012,Hyundai
+711,XUV,Kolkata,778888,46000, Diesel ,2015,Mahindra
+712,Q5,Mumbai,1850000,75000, Diesel,2014,Audi
+713,XC60,Mumbai,1750000,86000, Diesel ,2012,Volvo
+714,Polo,Bangalore,582899,15227, Petrol ,2017,Volkswagen
+715,Polo,Chennai,414099,87375, Diesel ,2014,Volkswagen
+716,Suzuki,Chennai,516599,7679, Petrol ,2020,Maruti
+717,Suzuki,Bangalore,366299,48378, Petrol ,2016,Maruti
+718,Suzuki,Chennai,375899,54645, Petrol ,2014,Maruti
+719,Suzuki,Chennai,493899,7211, Petrol ,2019,Maruti
+720,Redi,Bangalore,311399,37217, Petrol ,2017,Datsun
+721,Suzuki,Chennai,493899,32372, Petrol ,2019,Maruti
+722,Suzuki,Chennai,501999,37947, Petrol ,2018,Maruti
+723,Grand,Pune,409399,51886, Petrol ,2014,Hyundai
+724,Innova,Pune,1737899,43187, Diesel ,2018,Toyota
+725,i20,Pune,583999,33616, Diesel ,2015,Hyundai
+726,Vento,Chennai,654299,91087, Diesel ,2015,Volkswagen
+727,Ecosport,Bangalore,986699,26372, Petrol ,2018,Ford
+728,Suzuki,Bangalore,414199,58762, Petrol ,2014,Maruti
+729,Elite,Chennai,588099,101920, Diesel ,2016,Hyundai
+730,Suzuki,Jaipur,490000,44000, Petrol,2014,Maruti
+731,Scorpio,Jaipur,225000,85000, Diesel,2007,Mahindra
+732,Suzuki,Jaipur,775000,64000, Diesel,2017,Maruti
+733,Sonet,Jaipur,1050000,13000, Diesel,2021,Kia
+734,Amaze,Jaipur,425000,76000, Diesel,2015,Honda
+735,Suzuki,Jaipur,275000,45000, Petrol,2015,Maruti
+736,Nexon,Jaipur,875000,63088, Diesel,2019,Tata
+737,Suzuki,Chennai,250000,54123, Petrol,2013,Maruti
+738,i20,Pune,567399,35140, Petrol ,2015,Hyundai
+739,Suzuki,Pune,805099,50842, Diesel ,2018,Maruti
+740,Amaze,Pune,492199,43412, Petrol ,2015,Honda
+741,Jazz,Pune,495799,46201, Petrol ,2016,Honda
+742,Suzuki,Bangalore,1113599,63626, Diesel ,2017,Maruti
+743,Suzuki,Chennai,299999,18251, Petrol ,2016,Maruti
+744,Suzuki,Chennai,592099,41019, Petrol ,2016,Maruti
+745,Kwid,Chennai,322299,46463, Petrol ,2015,Renault
+746,Kwid,Bangalore,481999,20110, Petrol ,2017,Renault
+747,Grand,Pune,534599,17364, Petrol ,2016,Hyundai
+748,Motors,Bangalore,1681899,6760, Petrol ,2020,MG
+749,Suzuki,Bangalore,429599,35109, Petrol ,2016,Maruti
+750,Amaze,Chennai,723799,44266, Petrol ,2018,Honda
+751,Polo,Chennai,563299,39156, Petrol ,2017,Volkswagen
+752,Suzuki,Pune,214199,57993, Petrol ,2011,Maruti
+753,Suzuki,Bangalore,319399,51573, Petrol ,2015,Maruti
+754,Punto,Pune,180000,88000, Petrol,2011,Fiat
+755,i20,Pune,415000,67000, Petrol,2014,Hyundai
+756,Suzuki,Pune,350000,73000, Diesel,2011,Maruti
+757,Elite,Kolkata,430000,39000, Petrol,2015,Hyundai
+758,XUV,Thane,450000,87500, Diesel,2012,Mahindra
+759,Accord,Bhubaneswar,325000,86000, Petrol,2006,Honda
+760,Grand,Bangalore,565000,19900, Petrol,2017,Hyundai
+761,Terrano,Madurai,880000,22000, Diesel,2013,Nissan
+762,Suzuki,Bangalore,810399,78329, Diesel ,2016,Maruti
+763,Suzuki,Chennai,788999,61977, Diesel ,2016,Maruti
+764,KUV100,Bangalore,508799,58640, Diesel ,2016,Mahindra
+765,Kwid,Bangalore,457099,40650, Petrol ,2018,Renault
+766,Polo,Bangalore,612899,19121, Petrol ,2019,Volkswagen
+767,Ecosport,Chennai,684099,85893, Diesel ,2016,Ford
+768,Triber,Chennai,716699,9874, Petrol ,2019,Renault
+769,Grand,Bangalore,501599,25202, Petrol ,2016,Hyundai
+770,Grand,Chennai,509699,95999, Petrol ,2016,Hyundai
+771,Suzuki,Bangalore,337799,49074, Petrol ,2014,Maruti
+772,Verna,Pune,852399,52439, Petrol ,2017,Hyundai
+773,XUV,Bangalore,1784699,10813, Diesel ,2020,Mahindra
+774,Creta,Chennai,778199,127971, Petrol ,2016,Hyundai
+775,Suzuki,Chennai,705099,114108, Diesel ,2018,Maruti
+776,Grand,Chennai,557599,52030, Diesel ,2017,Hyundai
+777,XUV,Pune,1518099,44721, Diesel ,2018,Mahindra
+778,Marazzo,Madurai,1190000,50000, Diesel,2018,Mahindra
+779,Laura,Madurai,590000,95000, Diesel,2011,Skoda
+780,Harrier,Madurai,1980000,17000, Diesel,2020,Tata
+781,XUV,Chennai,1350000,52500, Diesel,2018,Mahindra
+782,5,NaviMumbai,1059000,49000, Petrol ,2010,BMW
+783,Suzuki,Kolkata,185000,55000, Petrol ,2011,Maruti
+784,Scorpio,Chennai,710000,81500, Diesel,2014,Mahindra
+785,Benz,Kolkata,1948888,10000, Diesel ,2013,Mercedes
+786,Harrier,Bangalore,2272499,22667, Diesel ,2020,Tata
+787,City,Bangalore,626199,68519, Petrol ,2014,Honda
+788,Nano,Bangalore,236099,64011, Petrol ,2015,Tata
+789,Suzuki,Bangalore,430499,13598, Petrol ,2021,Maruti
+790,Suzuki,Bangalore,442799,47037, Petrol ,2014,Maruti
+791,Creta,Pune,1373699,69711, Petrol ,2018,Hyundai
+792,Elite,Pune,589299,49189, Petrol ,2015,Hyundai
+793,Suzuki,Chennai,298199,18368, Petrol ,2016,Maruti
+794,Harrier,Pune,1508799,16874, Diesel ,2020,Tata
+795,Suzuki,Bangalore,473699,24484, Petrol ,2019,Maruti
+796,Suzuki,Chennai,656299,20688, Petrol ,2019,Maruti
+797,Suzuki,Chennai,345799,24065, Petrol ,2016,Maruti
+798,Grand,Chennai,584599,22609, Petrol ,2018,Hyundai
+799,Rapid,Pune,786799,56523, Diesel ,2017,Skoda
+800,Elite,Chennai,624799,48031, Petrol ,2018,Hyundai
+801,Grand,Chennai,472399,45578, Petrol ,2016,Hyundai
+802,Fluidic,Kolkata,408888,70070, Diesel ,2012,Hyundai
+803,i10,Kolkata,288888,28000, Petrol ,2015,Hyundai
+804,Sail,Kolkata,198888,30030, Diesel ,2013,Chevrolet
+805,Endeavor,Kolkata,898888,25000, Diesel ,2011,Ford
+806,3,Kolkata,1148888,8000, Diesel ,2013,BMW
+807,Spark,Chennai,79000,53000, Petrol,2010,Chevrolet
+808,City,Chennai,97000,68000, Petrol,2007,Honda
+809,Santro,Pune,135000,58000, Petrol,2007,Hyundai
+810,Elite,Bangalore,687199,28648, Petrol ,2016,Hyundai
+811,i10,Bangalore,387099,59819, Petrol ,2015,Hyundai
+812,Suzuki,Chennai,650599,19574, Petrol ,2018,Maruti
+813,Hexa,Chennai,1705799,46337, Diesel ,2019,Tata
+814,Polo,Bangalore,526899,73563, Petrol ,2015,Volkswagen
+815,Jazz,Chennai,612799,51428, Petrol ,2016,Honda
+816,Suzuki,Chennai,269099,95754, Petrol ,2016,Maruti
+817,Hexa,Chennai,1952199,34533, Diesel ,2019,Tata
+818,Suzuki,Chennai,646299,50154, Petrol ,2016,Maruti
+819,Suzuki,Bangalore,425899,23492, Petrol ,2016,Maruti
+820,Suzuki,Bangalore,496399,37739, Petrol ,2017,Maruti
+821,Suzuki,Bangalore,393799,46178, Petrol ,2015,Maruti
+822,Suzuki,Chennai,619599,42893, Petrol ,2017,Maruti
+823,Suzuki,Pune,423599,57875, Petrol + CNG ,2019,Maruti
+824,Venue,Pune,831999,4832, Petrol ,2020,Hyundai
+825,Triber,Chennai,695099,27805, Petrol ,2019,Renault
+826,Xcent,Ahmedabad,390000,71000, Diesel ,2014,Hyundai
+827,Fortuner,Chennai,1350000,140000, Diesel,2013,Toyota
+828,Innova,Chennai,1350000,70000, Diesel,2014,Toyota
+829,City,Chennai,250000,75000, Petrol,2008,Honda
+830,Suzuki,Pune,145000,57000, Petrol,2009,Maruti
+831,Suzuki,Pune,980000,57000, Diesel,2018,Maruti
+832,Creta,Pune,980000,91000, Diesel,2018,Hyundai
+833,i10,Nagpur,195000,86000, Petrol,2009,Hyundai
+834,Suzuki,Chennai,261499,68844, Petrol ,2013,Maruti
+835,Jazz,Chennai,649699,37070, Petrol ,2017,Honda
+836,Grand,Pune,494099,20393, Petrol ,2017,Hyundai
+837,Suzuki,Pune,313399,22244, Petrol ,2017,Maruti
+838,Fortuner,Chennai,2122099,47024, Diesel ,2016,Toyota
+839,Elite,Chennai,552799,64707, Petrol ,2015,Hyundai
+840,Ecosport,Pune,490099,52149, Petrol ,2013,Ford
+841,Grand,Pune,638599,11203, Petrol ,2017,Hyundai
+842,Suzuki,Pune,374799,18071, Petrol ,2015,Maruti
+843,Elite,Chennai,517499,81412, Petrol ,2016,Hyundai
+844,Suzuki,Chennai,553899,41912, Petrol ,2016,Maruti
+845,Suzuki,Chennai,579199,32516, Petrol ,2016,Maruti
+846,Grand,Bangalore,531999,41552, Petrol ,2015,Hyundai
+847,Grand,Chennai,496199,21790, Petrol ,2018,Hyundai
+848,Suzuki,Chennai,659099,34010, Petrol ,2019,Maruti
+849,Elite,Chennai,534799,50050, Petrol ,2016,Hyundai
+850,Suzuki,Chennai,950000,2000, Petrol,2019,Maruti
+851,Suzuki,Nagpur,265000,71000, Petrol,2010,Maruti
+852,i20,Chennai,650000,52000, Diesel,2015,Hyundai
+853,Suzuki,Chennai,650000,35000, Petrol,2018,Maruti
+854,Kwid,Chennai,290000,41000, Petrol,2016,Renault
+855,Indigo,Bangalore,74999,125000, Diesel,2003,Tata
+856,Suzuki,Bangalore,155000,85000, Petrol,2006,Maruti
+857,Optra,Chennai,69000,85000, Petrol,2005,Chevrolet
+858,Grand,Chennai,496199,21790, Petrol ,2018,Hyundai
+859,Suzuki,Chennai,298599,75822, Petrol ,2011,Maruti
+860,Tiago,Bangalore,490199,28589, Petrol ,2016,Tata
+861,Kwid,Bangalore,422999,15883, Petrol ,2017,Renault
+862,Elite,Chennai,656399,63648, Petrol ,2016,Hyundai
+863,Suzuki,Pune,688599,156931, Diesel ,2016,Maruti
+864,Suzuki,Pune,1113299,13829, Petrol ,2019,Maruti
+865,Suzuki,Pune,608399,28361, Petrol ,2016,Maruti
+866,Grand,Chennai,587399,77960, Petrol ,2017,Hyundai
+867,Suzuki,Bangalore,449699,33473, Petrol ,2015,Maruti
+868,Suzuki,Chennai,464899,29052, Petrol ,2019,Maruti
+869,Suzuki,Chennai,302699,68041, Petrol ,2017,Maruti
+870,Suzuki,Bangalore,583299,61361, Petrol ,2015,Maruti
+871,BRV,Bangalore,877999,32218, Petrol ,2018,Honda
+872,i10,Chennai,398499,28579, Petrol ,2016,Hyundai
+873,Grand,Chennai,529399,51343, Petrol ,2017,Hyundai
+874,Optra,Chennai,69000,85000, Petrol,2005,Chevrolet
+875,City,Hyderabad,700000,86868, Petrol,2016,Honda
+876,Accent,Chennai,79000,85000, Petrol,2002,Hyundai
+877,Suzuki,Chennai,390000,77000, Petrol,2012,Maruti
+878,City,Chennai,950000,35500, Petrol ,2017,Honda
+879,Glanza,Chennai,725000,19942, Petrol,2019,Toyota
+880,i20,Bangalore,439000,16000, Petrol ,2012,Hyundai
+881,City,,1069999,54000, CNG ,2018,Honda
+882,Kwid,Bangalore,422299,17357, Petrol ,2019,Renault
+883,Figo,Bangalore,589999,14517, Petrol ,2017,Ford
+884,Suzuki,Chennai,661299,13517, Petrol ,2017,Maruti
+885,Suzuki,Chennai,429099,42302, Petrol ,2017,Maruti
+886,Suzuki,Chennai,389399,65783, Petrol ,2015,Maruti
+887,Lodgy,Chennai,629799,138716, Diesel ,2015,Renault
+888,i10,Bangalore,397299,43339, Petrol ,2013,Hyundai
+889,Suzuki,Pune,546399,19526, Petrol ,2018,Maruti
+890,Suzuki,Bangalore,412999,25673, Petrol ,2016,Maruti
+891,Suzuki,Chennai,402799,93304, Petrol ,2016,Maruti
+892,Creta,Chennai,915699,94409, Diesel ,2019,Hyundai
+893,Suzuki,Chennai,361499,66799, Petrol,2014,Maruti
+894,EON,Chennai,357899,27339, Petrol ,2016,Hyundai
+895,Kwid,Pune,475399,9095, Petrol ,2018,Renault
+896,Suzuki,Bangalore,485299,21934, Petrol ,2019,Maruti
+897,Suzuki,Bangalore,643599,51706, Petrol ,2016,Maruti
+898,City,Dwarka,1069999,54000, CNG ,2018,Honda
+899,City,GirSomnath,1069999,54000, CNG ,2018,Honda
+900,City,Anand,1069999,54000, CNG ,2018,Honda
+901,i20,Chennai,255000,90000, Petrol,2009,Hyundai
+902,Hexa,Muzaffarnagar,1500000,85000, Diesel,2019,Tata
+903,XUV,Jaipur,650000,89000, Diesel,2014,Mahindra
+904,Santro,Jaipur,175000,45000, Petrol,2010,Hyundai
+905,WRV,Kolkata,735000,34000, Petrol ,2018,Honda
+906,Suzuki,Pune,438199,31281, Petrol ,2018,Maruti
+907,City,Bangalore,924599,46312, Petrol ,2019,Honda
+908,Elite,Chennai,664099,32989, Petrol ,2018,Hyundai
+909,Kwid,Bangalore,462299,50599, Petrol ,2018,Renault
+910,Brio,Bangalore,438499,26127, Petrol ,2016,Honda
+911,Suzuki,Bangalore,680999,58118, Diesel ,2016,Maruti
+912,Suzuki,Chennai,393199,23534, Petrol ,2019,Maruti
+913,Suzuki,Chennai,646799,58978, Petrol ,2018,Maruti
+914,Suzuki,Pune,349999,33103, Petrol ,2014,Maruti
+915,Suzuki,Bangalore,419599,14600, Petrol ,2018,Maruti
+916,Suzuki,Pune,585099,26049, Petrol ,2016,Maruti
+917,Freestyle,Bangalore,627799,33895, Diesel ,2018,Ford
+918,Polo,Bangalore,520799,32893, Petrol ,2017,Volkswagen
+919,Suzuki,Chennai,410199,61717, Petrol ,2013,Maruti
+920,Suzuki,Chennai,404399,82334, Petrol ,2017,Maruti
+921,Verna,Chennai,682799,87381, Petrol ,2017,Hyundai
+922,Rover,Chennai,4490000,51000, Diesel,2017,Land
+923,City,Delhi,150000,85000, Petrol,2008,Honda
+924,Cayenne,Mumbai,3300000,38000, Electric ,2011,Porsche
+925,Innova,Bangalore,1175000,210000, Diesel ,2013,Toyota
+926,Suzuki,Bangalore,975000,24200, Petrol,2019,Maruti
+927,Motors,Trichy,2000000,28000, Diesel,2021,MG
+928,Bolero,Trichy,535000,135000, Diesel,2012,Mahindra
+929,Ecosport,Pune,1045799,34642, Petrol ,2019,Ford
+930,Suzuki,Chennai,410199,154104, Petrol ,2013,Maruti
+931,Suzuki,Chennai,297299,61826, Petrol ,2016,Maruti
+932,Nexon,Pune,980199,44751, Diesel ,2018,Tata
+933,Jazz,Chennai,794299,5183, Petrol ,2019,Honda
+934,Suzuki,Pune,411899,136082, Diesel ,2012,Maruti
+935,Suzuki,Chennai,557399,5817, Petrol ,2019,Maruti
+936,Creta,Pune,896099,99138, Diesel ,2015,Hyundai
+937,Jazz,Pune,637699,27936, Petrol ,2016,Honda
+938,Suzuki,Chennai,254499,39845, Petrol ,2014,Maruti
+939,Suzuki,Chennai,457699,15615, Petrol ,2019,Maruti
+940,Brio,Chennai,361599,53158, Petrol ,2012,Honda
+941,Suzuki,Pune,675799,16002, Petrol ,2019,Maruti
+942,Suzuki,Pune,389499,31133, Petrol ,2015,Maruti
+943,Suzuki,Bangalore,625599,20172, Petrol ,2016,Maruti
+944,Polo,Bangalore,686999,69653, Petrol ,2013,Volkswagen
+945,Suzuki,Trichy,425000,75000, Petrol,2015,Maruti
+946,Pulse,Trichy,350000,132000, Diesel,2012,Renault
+947,Rapid,Trichy,560000,84000, Diesel,2014,Skoda
+948,Suzuki,Trichy,250000,147000, Petrol,2007,Maruti
+949,Santro,Uttarpara,90000,61000, Petrol,2008,Hyundai
+950,i10,Delhi,200000,56000, Petrol,2012,Hyundai
+951,KUV100,Chennai,325000,108000, Diesel,2018,Mahindra
+952,i20,Chennai,620000,55000, Diesel,2018,Hyundai
+953,Ameo,Chennai,519699,26023, Petrol ,2017,Volkswagen
+954,Suzuki,Chennai,324599,19805, Petrol ,2018,Maruti
+955,Suzuki,Chennai,340199,41365, Petrol ,2017,Maruti
+956,Ecosport,Chennai,693999,90001, Diesel ,2017,Ford
+957,EON,Chennai,310999,45285, Petrol ,2016,Hyundai
+958,Suzuki,Bangalore,722199,42441, Petrol ,2016,Maruti
+959,Suzuki,Bangalore,485099,24342, Petrol ,2016,Maruti
+960,Suzuki,Chennai,614999,14308, Petrol ,2017,Maruti
+961,Suzuki,Pune,1061399,32456, Diesel ,2018,Maruti
+962,Suzuki,Pune,879699,58448, Diesel ,2018,Maruti
+963,Suzuki,Chennai,755199,86576, Diesel ,2016,Maruti
+964,Ecosport,Bangalore,816399,50421, Petrol ,2018,Ford
+965,Suzuki,Chennai,414299,26035, Petrol ,2017,Maruti
+966,Tiago,Chennai,476299,23499, Petrol ,2018,Tata
+967,Suzuki,Chennai,572599,25636, Petrol ,2016,Maruti
+968,Seltos,Bangalore,1644799,15023, Petrol ,2019,Kia
+969,Jeep,Kochi,440000,250, Diesel,2020,Mahindra
+970,Vento,Pune,575000,66000, Petrol,2015,Volkswagen
+971,Innova,Bangalore,880000,85000, Diesel,2015,Toyota
+972,Carnival,Chennai,1500000,50000, Diesel ,2020,Kia
+973,Creta,Chennai,1000000,12000, Petrol ,2021,Hyundai
+974,Beat,Chennai,86000,56000, Petrol,2011,Chevrolet
+975,Suzuki,Chennai,89000,53000, Petrol,2010,Maruti
+976,Nano,Mumbai,90000,28000, Petrol,2014,Tata
+977,Suzuki,Bangalore,352199,22584, Petrol ,2015,Maruti
+978,Suzuki,Bangalore,566899,22394, Petrol ,2017,Maruti
+979,Suzuki,Chennai,650699,93563, Diesel ,2017,Maruti
+980,Suzuki,Chennai,413399,10537, Petrol ,2017,Maruti
+981,Ecosport,Chennai,645799,81515, Diesel ,2016,Ford
+982,Compass,Chennai,1551499,24676, Diesel ,2017,Jeep
+983,Suzuki,Pune,333699,11917, Petrol ,2017,Maruti
+984,Suzuki,Pune,811799,69654, Diesel ,2016,Maruti
+985,Suzuki,Pune,406899,16226, Petrol ,2017,Maruti
+986,Ecosport,Pune,727299,8925, Petrol ,2018,Ford
+987,Jazz,Bangalore,657399,27819, Petrol ,2016,Honda
+988,Grand,Bangalore,637599,26543, Petrol ,2020,Hyundai
+989,Suzuki,Bangalore,623799,90088, Petrol ,2017,Maruti
+990,Suzuki,Chennai,422899,34258, Petrol ,2018,Maruti
+991,i20,Chennai,576099,101744, Petrol ,2015,Hyundai
+992,Compass,Pune,1987699,19830, Petrol ,2019,Jeep
+993,Ikon,Chennai,39000,73000, Petrol,2007,Ford
+994,Grand,Dhanbad,475000,38000, Diesel,2019,Hyundai
+995,XUV,NaviMumbai,450000,87500, Diesel,2012,Mahindra
+996,Suzuki,Nagpur,650000,91000, Diesel,2014,Maruti
+997,Suzuki,Nagpur,326000,76000, Diesel,2012,Maruti
+998,Indica,Nagpur,170000,80000, Diesel,2011,Tata
+999,Suzuki,Delhi,250000,70000, CNG,2013,Maruti
+1000,Suzuki,Bangalore,88000,85000, Petrol,2007,Maruti
+1001,Motors,Pune,1652199,13636, Petrol ,2019,MG
+1002,Venue,Bangalore,1217499,21393, Petrol ,2019,Hyundai
+1003,Creta,Pune,1198299,76915, Diesel ,2017,Hyundai
+1004,Grand,Chennai,590799,16300, Petrol ,2018,Hyundai
+1005,Elite,Pune,844999,40106, Diesel ,2019,Hyundai
+1006,Kwid,Bangalore,328499,66461, Petrol ,2015,Renault
+1007,Creta,Pune,769599,48182, Petrol ,2016,Hyundai
+1008,Elite,Bangalore,654299,41816, Petrol ,2017,Hyundai
+1009,i20,Chennai,395699,73841, Petrol ,2012,Hyundai
+1010,Kwid,Chennai,294799,19908, Petrol ,2016,Renault
+1011,Elite,Chennai,534499,26226, Petrol ,2018,Hyundai
+1012,Suzuki,Chennai,681399,43287, Petrol ,2016,Maruti
+1013,Redi,Bangalore,415699,26527, Petrol ,2018,Datsun
+1014,Suzuki,Bangalore,300199,37801, Petrol ,2017,Maruti
+1015,Suzuki,Chennai,856699,54044, Diesel ,2017,Maruti
+1016,Figo,Pune,481399,29632, Petrol ,2017,Ford
+1017,Xylo,Trichy,375000,115000, Diesel,2009,Mahindra
+1018,Suzuki,Trichy,525000,13000, Petrol,2020,Maruti
+1019,Suzuki,Delhi,550000,42000, Diesel,2018,Maruti
+1020,i10,Bangalore,229000,65000, Petrol ,2014,Hyundai
+1021,Suzuki,Bangalore,275000,60000, Petrol,2014,Maruti
+1022,Compass,Mahasamund,1750000,31000, Diesel ,2017,Jeep
+1023,Compass,Bilaspur,1750000,31000, Diesel ,2017,Jeep
+1024,Compass,Jagdalpur,1750000,31000, Diesel ,2017,Jeep
